@@ -25,7 +25,6 @@ $(document).ready(function() {
             }
 
             $("#users .container .user-list").append(listUsers);
-            console.log(json);
         });
 
         $('.open-menu').click(function(){
